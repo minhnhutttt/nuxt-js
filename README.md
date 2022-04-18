@@ -1,1 +1,1 @@
-# nuxt-js
+# nuxtjs
